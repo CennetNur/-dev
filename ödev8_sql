@@ -1,0 +1,94 @@
+create table empolyee (
+	id INT,
+	name VARCHAR(50),
+	email VARCHAR(50),
+	birthday DATE
+);
+insert into empolyee (id, name, email, birthday) values (1, 'Haze', 'hdavy0@nps.gov', '2010-11-12 02:38:09');
+insert into empolyee (id, name, email, birthday) values (2, 'Kendre', 'kpittendreigh1@printfriendly.com', null);
+insert into empolyee (id, name, email, birthday) values (3, 'Ignazio', 'imacsporran2@amazon.com', '2020-09-05 21:53:01');
+insert into empolyee (id, name, email, birthday) values (4, 'Page', 'pbeauman3@eventbrite.com', '1983-11-04 12:59:16');
+insert into empolyee (id, name, email, birthday) values (5, 'Bobby', 'bidle4@sohu.com', '1985-08-25 08:34:02');
+insert into empolyee (id, name, email, birthday) values (6, 'Zaneta', 'zwensley5@walmart.com', null);
+insert into empolyee (id, name, email, birthday) values (7, 'Romain', 'rtaleworth6@umich.edu', '2008-05-31 00:04:20');
+insert into empolyee (id, name, email, birthday) values (8, 'Cirilo', 'cfulcher7@theguardian.com', '1987-10-11 12:07:29');
+insert into empolyee (id, name, email, birthday) values (9, 'Rita', 'rheisler8@state.tx.us', null);
+insert into empolyee (id, name, email, birthday) values (10, 'Jesselyn', 'jchiechio9@businesswire.com', '1995-11-19 21:30:18');
+insert into empolyee (id, name, email, birthday) values (11, 'Cole', 'cwhissona@histats.com', '2014-08-12 23:51:36');
+insert into empolyee (id, name, email, birthday) values (12, 'Sargent', 'smulvanyb@tmall.com', '2020-02-17 04:41:11');
+insert into empolyee (id, name, email, birthday) values (13, 'Zara', 'zphippinc@blog.com', '1991-01-18 01:42:21');
+insert into empolyee (id, name, email, birthday) values (14, 'Merry', 'mscalland@wunderground.com', null);
+insert into empolyee (id, name, email, birthday) values (15, 'Carline', 'cpiburne@jalbum.net', '2021-07-11 05:39:57');
+insert into empolyee (id, name, email, birthday) values (16, 'Taite', 'tacasterf@cnet.com', null);
+insert into empolyee (id, name, email, birthday) values (17, 'Glynnis', 'gfippeg@redcross.org', '1994-07-31 19:51:56');
+insert into empolyee (id, name, email, birthday) values (18, 'Pooh', 'pmorganh@msn.com', '2016-10-26 17:44:47');
+insert into empolyee (id, name, email, birthday) values (19, 'Gilda', 'gschumacheri@netvibes.com', '1989-10-02 19:21:58');
+insert into empolyee (id, name, email, birthday) values (20, 'Tony', 'tbarzenj@wired.com', '1989-11-14 15:13:52');
+insert into empolyee (id, name, email, birthday) values (21, 'Ode', 'opickerink@twitpic.com', null);
+insert into empolyee (id, name, email, birthday) values (22, 'Pris', 'pbirdalll@google.ru', null);
+insert into empolyee (id, name, email, birthday) values (23, 'Kris', 'ksheppeym@mlb.com', '1987-03-15 15:26:24');
+insert into empolyee (id, name, email, birthday) values (24, 'Cary', 'cbevesn@columbia.edu', '2007-02-24 13:33:04');
+insert into empolyee (id, name, email, birthday) values (25, 'Dylan', 'drimello@webmd.com', '1996-07-05 11:15:02');
+insert into empolyee (id, name, email, birthday) values (26, 'Arliene', 'aespinetp@smh.com.au', '2017-10-11 04:28:10');
+insert into empolyee (id, name, email, birthday) values (27, 'Walden', 'waleshintsevq@is.gd', '1980-08-18 13:25:56');
+insert into empolyee (id, name, email, birthday) values (28, 'Fawne', 'fpepisr@aol.com', '2006-11-28 23:28:09');
+insert into empolyee (id, name, email, birthday) values (29, 'Chandra', 'cseiters@dyndns.org', '2007-05-04 07:00:18');
+insert into empolyee (id, name, email, birthday) values (30, 'Lincoln', 'lbrafertont@slashdot.org', '1995-03-14 17:19:45');
+insert into empolyee (id, name, email, birthday) values (31, 'Lothaire', 'lensleyu@dagondesign.com', null);
+insert into empolyee (id, name, email, birthday) values (32, 'Elsbeth', 'ethameltv@merriam-webster.com', '2019-11-09 04:16:48');
+insert into empolyee (id, name, email, birthday) values (33, 'Celestina', 'cromanw@yahoo.co.jp', '2001-01-30 05:25:53');
+insert into empolyee (id, name, email, birthday) values (34, 'Nicoline', 'nyeelesx@hao123.com', '1986-01-18 11:41:09');
+insert into empolyee (id, name, email, birthday) values (35, 'Jeniffer', 'jgorchy@reddit.com', '2008-12-04 06:48:53');
+insert into empolyee (id, name, email, birthday) values (36, 'Odelinda', 'oleesonz@instagram.com', '1992-12-09 04:25:41');
+insert into empolyee (id, name, email, birthday) values (37, 'Neilla', 'norsman10@mayoclinic.com', '2010-01-26 12:20:28');
+insert into empolyee (id, name, email, birthday) values (38, 'Adel', 'azuanazzi11@cornell.edu', '1991-05-16 20:22:32');
+insert into empolyee (id, name, email, birthday) values (39, 'Branden', 'bhalmkin12@springer.com', '1981-02-07 10:42:43');
+insert into empolyee (id, name, email, birthday) values (40, 'Jocelyne', 'jimlacke13@mozilla.com', '2017-12-15 00:19:49');
+insert into empolyee (id, name, email, birthday) values (41, 'Fayina', 'fnortcliffe14@youtube.com', null);
+insert into empolyee (id, name, email, birthday) values (42, 'Chandal', 'cschoolfield15@noaa.gov', '2011-06-30 08:54:31');
+insert into empolyee (id, name, email, birthday) values (43, 'Nehemiah', 'nkneebone16@macromedia.com', '2001-07-15 23:52:00');
+insert into empolyee (id, name, email, birthday) values (44, 'Arel', 'apincott17@dedecms.com', '1990-01-12 17:29:50');
+insert into empolyee (id, name, email, birthday) values (45, 'Aubrette', 'ahabercham18@samsung.com', '2013-11-27 22:02:17');
+insert into empolyee (id, name, email, birthday) values (46, 'Leshia', 'lbessell19@barnesandnoble.com', '2016-04-16 04:36:19');
+insert into empolyee (id, name, email, birthday) values (47, 'Tallulah', 'tmccurlye1a@about.com', '1989-01-15 04:51:52');
+insert into empolyee (id, name, email, birthday) values (48, 'Kevyn', 'kcabane1b@constantcontact.com', '2001-10-18 00:24:08');
+insert into empolyee (id, name, email, birthday) values (49, 'Cathryn', 'cfolkerts1c@altervista.org', null);
+insert into empolyee (id, name, email, birthday) values (50, 'Nicholas', 'ndrinkale1d@marketwatch.com', '2000-04-12 01:57:54');
+
+
+Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
+
+UPDATE empolyee
+SET name ='Ziya',
+	email ='ziya@abc.com',
+	birthday='2010-09-09'
+WHERE id=9;
+
+UPDATE empolyee
+SET name ='Cennet Nur',
+	email ='cnnt@blc.com',
+	birthday='2000-09-03'
+WHERE id=1;
+
+UPDATE empolyee
+SET name ='Talha',
+	email ='talha@blc.com',
+	birthday='1996-10-27'
+WHERE id=2;
+
+UPDATE empolyee
+SET name ='Asel',
+	email ='Asel@blc.com',
+	birthday='2020-07-28'
+WHERE id=3;
+
+UPDATE empolyee
+SET name ='Ecrin',
+	email ='ecrin@agan.com',
+	birthday='2020-12-31'
+WHERE id=4;
+
+Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
+DELETE FROM empolyee 
+WHERE id IN (7,8,9,10,11)
+RETURNING * ;
